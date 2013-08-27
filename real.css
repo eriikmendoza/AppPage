@@ -1,0 +1,8 @@
+@charset "utf-8";
+.imagen {
+	left: 100px;
+	top: 300px;
+	right: 600px;
+	bottom: 200px;
+	float: right;
+}
